@@ -1,0 +1,18 @@
+App
++/- List of movies is clean but does take up a lot of screen real state
++ application is fast and responsive
++ Page layout is simple and clean using basic bootstrap
++ couldn't manage to crash the page
+- page reloads resets local storage state
+- add a movie form does not clear itself after inputting a movie
+- Total runtime watched won't show total time if one movie does not have a watch time
+- Total runtime is showing for all time, not the last month as specified in the requirements
+- no real way to choose what movie you want, you just gotta submit and hope it is the correct one
+
+Code
++ Competent level of react and JS knowledge is displayed
++ JSX is structured cleanly and component names make sense
+- No real code structure, everything is in the same folder
+- page has sorting but it is done oddly with it mutating the local storage state and relying on the frontend to pull in the new state
+- a lot of leftover console logs
+- Some function names are confusing, for example the function to add movies to the list is called getData
