@@ -1,4 +1,4 @@
-# Graduate React Task
+# React Task
 
 Your task is to **create a cryptocurrency portfolio** with React. Do your best to complete the task before the due date your hiring manager has given you. Features and gimmicks outside of the requirements specified below will **not** be taken into consideration when assessing your code.
 
